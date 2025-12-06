@@ -1,5 +1,5 @@
-from src.day04 import *
+from src.day06 import *
 
 if __name__ == "__main__":
     # print(part1("data/day2.txt"))
-    print(part2("data/day4.txt"))
+    print(part2("data/day6.txt"))
